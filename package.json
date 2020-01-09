@@ -1,0 +1,19 @@
+{
+  "name": "7m-react-shweta",
+  "version": "1.0.0",
+  "description": "for pratice",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shwetspawar/7Mreactnew.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shwetspawar/7Mreactnew/issues"
+  },
+  "homepage": "https://github.com/shwetspawar/7Mreactnew#readme"
+}
